@@ -90,8 +90,10 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 
 
 ## Tech Stack 🛠
-![cover]([https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124](https://raw.githubusercontent.com/Abhijit0Barman/dead-giants-6622/main/vaccino/src/photos/Untitled%20design.jpg))
-![cover]([https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124](https://raw.githubusercontent.com/Abhijit0Barman/dead-giants-6622/main/vaccino/src/photos/Untitled%20design.jpg))
+![Untitled design](https://github.com/Abhijit0Barman/dead-giants-6622/assets/113384779/1eb6abcf-3b1a-4b21-8062-d49be870ae64)
+
+
+
 
 ##
 ## ScreenShots 📷
