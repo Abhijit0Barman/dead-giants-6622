@@ -26,9 +26,7 @@
 
 
   
-> ![Alka - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/ea6e9d8f-6adc-44a7-8a7c-df9c31e01a37)   ⦿ [Alka Sinha](https://github.com/AlkaSinha5)                           ![Ashutosh upadhyay](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/aa439047-435a-412f-b6b0-7076e02c822d)   ⦿  [Ashutosh](https://github.com/ashutosh102037) 
-
-  > ![Anubraj - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/231d17a7-7fe7-4aec-9486-33b4026a95fb) ⦿ [Anburaj S](https://github.com/Anburaj07)        ![Abhijit - Copy](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/3d67baa2-3855-44e9-859a-f5cf120e27a3)⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    ![Piyush](https://user-images.githubusercontent.com/118152296/237017919-8398c051-aa6f-4cdf-9a45-c7cc854d5e63.png)  ⦿ [Piyush Sharma](https://github.com/pspiyush130)
+⦿ [Abhijit Barman](https://github.com/Abhijit0Barman)    ![Piyush](https://user-images.githubusercontent.com/118152296/237017919-8398c051-aa6f-4cdf-9a45-c7cc854d5e63.png)  
 
 </div>
 
