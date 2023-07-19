@@ -91,7 +91,7 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 
 ## Tech Stack 🛠
 ![cover](https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124)
-![cover]([https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true))
+![covecvr]([https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true))
 
 ##
 ## ScreenShots 📷
@@ -129,7 +129,7 @@ This project might ( and certainly does ) have bugs, vulnerabilities, or other i
 <h4>1. Clone the project </h4>
 
 ```
-git clone https://github.com/Anburaj07/vogue-pocket-8479.git
+git clone https://github.com/Abhijit0Barman/dead-giants-6622.git
 
 ```
 
