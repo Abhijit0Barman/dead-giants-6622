@@ -135,7 +135,7 @@ git clone https://github.com/Anburaj07/vogue-pocket-8479.git
 <h4>2. Go to the project directory </h4> 
 
 ```
-cd vogue-pocket-8479
+cd dead-giants-6622
 ```
 <h4>3. Install dependencies </h4> 
 
