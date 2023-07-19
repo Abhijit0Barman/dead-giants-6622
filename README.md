@@ -31,10 +31,10 @@
 
 <div align="center">
 
- <h3>logo :"Travelo"</h3>
+ <h3>logo :"Vaccino"</h3>
 
  
-![logo](https://github.com/Anburaj07/vogue-pocket-8479/assets/118152296/5ef7083f-6d45-4aa5-aa2a-c66c954c563d)
+![logo](https://github.com/Abhijit0Barman/dead-giants-6622/blob/main/vaccino/src/photos/VACCINO.jpg?raw=true)
 
 
 
