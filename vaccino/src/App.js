@@ -1,9 +1,11 @@
-import './App.css';
+import AllRoutes from "../src/components/AllRoutes"
+import Navbar from "../src/components/Navbar"
 
 function App() {
   return (
     <div className="App">
-        color
+      <Navbar />
+      <AllRoutes />
     </div>
   );
 }
