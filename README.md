@@ -43,7 +43,7 @@
  
 
  
- ## 🌐 Deployed Link : https://
+ ## 🌐 Deployed Link : https://vaccino.vercel.app/
  
 
  </div>
