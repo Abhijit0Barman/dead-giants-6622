@@ -187,7 +187,55 @@ const Home = () => {
         </Box>
       </Box>
       {/* ============ */}
-    
+      <Box display={'flex'} mt={'100px'} >
+        <Box ml={'100px'} fontSize={'3xl'}>
+          <Heading>why should i Vaccines</Heading>
+          <Container>
+            There are many benefits to a joint design and development system. Not only
+            does it bring benefits to the design team, but it also brings benefits to
+            engineering teams. It makes sure that our experiences have a consistent look
+            and feel, not just in our design specs, but in production
+          </Container>
+        </Box>
+      </Box>
+      {/* ============ */}
+      <Box py="10" bg="gray.100">
+        <Container maxW="container.lg">
+          <Flex flexDirection={{ base: 'column', lg: 'row-reverse' }} alignItems="center">
+            {/* Right Side - Image */}
+            <Box flex="1">
+              <Image src="./Nurse.png" borderRadius="md" />
+            </Box>
+
+            {/* Left Side - Call Cards */}
+            <Flex flex="1" flexDirection="row" justify='space-evenly' mt={{ base: '8', lg: '0' }} mr={{ lg: '8' }}>
+              <Box p="4" bg="white" borderRadius="md" boxShadow="md" mb="4">
+                <Icon as='AiFillPhone' boxSize="24px" color="blue.500" />
+                <Text fontSize="xl" fontWeight="bold" mt="4">
+                  Call
+                </Text>
+                <Text mt="2">"+0987654321"</Text>
+                <Button colorScheme="blue" size="sm" mt="4">
+                  Call
+                </Button>
+              </Box>
+              <Box p="4" bg="white" borderRadius="md" boxShadow="md" mb="4">
+                <Icon as='AiFillPhone' boxSize="24px" color="blue.500" />
+                <Text fontSize="xl" fontWeight="bold" mt="4">
+                  Call
+                </Text>
+                <Text mt="2">"+0987654321"</Text>
+                <Button colorScheme="blue" size="sm" mt="4">
+                  Call
+                </Button>
+              </Box>
+              {/* <CallCard title="Call 2" number="+0987654321" />
+              <CallCard title="Call 3" number="+9876543210" />
+              <CallCard title="Call 4" number="+0123456789" /> */}
+            </Flex>
+          </Flex>
+        </Container>
+      </Box>
     </>
   )
 }
