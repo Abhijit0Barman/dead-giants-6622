@@ -1,5 +1,6 @@
-import React from 'react'
 import { NavLink } from "react-router-dom"
+import { Flex, Spacer, Center, Text, Square, Box, Heading, Image } from '@chakra-ui/react'
+import brandLogo from "../photos/VACCINO.jpg"
 
 const links = [
     { label: "HOME", to: "/" },
@@ -8,20 +9,25 @@ const links = [
     { label: "REGULATION", to: "/regulation" },
     { label: "LOGIN", to: "/login" },
     { label: "MAIN", to: "/main" },
-    // {label:"", to:"/"},
 ]
 
 
 function Navbar() {
 
-    return (
-        <>
-            <div style={{
-                display: "flex", justifyContent: "space-around",
-                backgroundColor: "grey", padding: "20px"
-            }}>
-                {
-                    links.map((l) => (
+    return (<>
+        <Box bg="teal.500" px={4} py={3} >
+            <Flex alignItems="center" maxWidth="800px" mx="auto">
+                <Heading color="white" size="md">
+                    <Image
+                        borderRadius='full'
+                        boxSize='60px'
+                        src='https://github.com/Abhijit0Barman/dead-giants-6622/blob/main/vaccino/src/photos/VACCINO.jpg?raw=true'
+                        alt='Dan'
+                    />
+                </Heading>
+                <Spacer />
+                <Box>
+                    {links.map((l) => (
                         <NavLink
                             key={l.to}
                             to={l.to}
@@ -29,11 +35,11 @@ function Navbar() {
                             // style={({ isActive }) => isActive ? activeStyle : defaultStyle}
                             style={({ isActive }) => isActive ? { color: 'red' } : { color: 'black' }}
                         />
-                    ))
-                }
-            </div>
-        </>
-    )
+                    ))}
+                </Box>
+            </Flex>
+        </Box>
+    </>)
 }
 
 export default Navbar
